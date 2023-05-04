@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        include "variables.php";
+        require "variables.php";
         echo "$fname <br>";
         echo "$lname";
     ?>
