@@ -8,12 +8,8 @@
 </head>
 <body>
     <?php
-        include "content.php";
         for ($x = 0; $x <= 10; $x++) {
-            echo "$fname<br>";
-            echo "$lname<br>";
-            echo "$image_code";
-            echo "$txt<br>";
+            include "content.php";
         }
     ?>
 </body>
