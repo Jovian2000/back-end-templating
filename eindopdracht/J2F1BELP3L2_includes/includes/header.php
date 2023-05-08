@@ -6,6 +6,7 @@ om te bepalen welke inhoud er ingeladen moet worden in je html
 <?php
     echo '
         <header>
+            <h1>Eindopdracht</h1>
             <nav>
                 <a href="index.php">
                     <img src="images/home.jpg">
