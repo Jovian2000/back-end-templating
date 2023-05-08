@@ -1,0 +1,52 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(163, 163, 163);
+}
+
+header {
+    background-color: rgb(73, 73, 73);
+}
+
+nav {
+    display: inline-flex;
+    overflow: hidden;
+
+}
+
+a {
+    text-align: center;
+    border: 2px solid black;
+    margin: 5px;
+    text-decoration: none;
+}
+
+a img {
+    height: 100px;
+    width: auto;
+    border-bottom: 2px solid black;
+}
+
+a p {
+    color: white;
+}
+
+a:hover {
+    background-color: black;
+}
+
+.content-block img {
+    height: 400px;
+    width: auto;
+}
+
+footer {
+    background-color: rgb(73, 73, 73);
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%
+}
