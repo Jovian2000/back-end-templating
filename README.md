@@ -19,3 +19,10 @@
     alt="screenshot van onderdeel 3"
     title="onderdeel 3"
     style="display: inline-block; margin: 0 auto; max-width: 30px">
+
+## J2F1BELP3O1 - Eindopdracht - Includes are Required
+<img
+    src="/screenshots/screenshot-eindopdracht.png"
+    alt="screenshot van eindopdracht"
+    title="Eindopdracht"
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
